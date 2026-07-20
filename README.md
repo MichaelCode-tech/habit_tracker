@@ -74,7 +74,7 @@ Contributions are welcome! If you have ideas for features or find bugs, feel fre
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `[LICENSE](https://github.com/MichaelCode-tech/habit_tracker#)` for more information.
 
 ---
 Developed with ❤️ by Michael
