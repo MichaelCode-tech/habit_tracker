@@ -74,7 +74,7 @@ Contributions are welcome! If you have ideas for features or find bugs, feel fre
 
 ## 📄 License
 
-Distributed under the MIT License. See `[LICENSE] (https://github.com/MichaelCode-tech/habit_tracker?tab=MIT-1-ov-file)` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 Developed with ❤️ by Michael
