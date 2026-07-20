@@ -11,6 +11,14 @@ A beautiful, minimalist habit-tracking application built with Flutter and Isar D
 - **💾 Offline First**: Powered by Isar, a high-performance NoSQL database that works entirely offline.
 - **🛠 Modern UI**: Clean, minimalist design with smooth animations and intuitive gestures (swipe to edit/delete).
 
+## 📥 Downloads
+
+### Android
+- **Latest Release (v1.0)**: [Download APK](https://github.com/MichaelCode-tech/habit_tracker/releases/download/1.0/app-release.apk)
+- **All Releases**: [View on GitHub Releases](https://github.com/MichaelCode-tech/habit_tracker/releases)
+
+> **Note:** For Android, download the `.apk` file from the releases page and install it on your device. You may need to enable "Install from unknown sources" in your device settings.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
